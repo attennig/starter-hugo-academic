@@ -26,7 +26,7 @@ item:
 - certificate_url: https://www.studiareinformatica.uniroma1.it/master-course-computer-science/honours-programme
   date_end: "2018"
   date_start: "2019"
-  description: "Topic: ”Algorithms and tools for Smart Cities and Smart Grids”. \n Advisor: Professor Igor Melatti"
+  description: "Topic: Algorithms and tools for Smart Cities and Smart Grids. \n Advisor: Professor Igor Melatti"
   organization: Sapienza University of Rome
   organization_url: https://www.di.uniroma1.it/
   title: Honours Programme in Computer Science

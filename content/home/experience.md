@@ -29,7 +29,7 @@ experience:
     location: California
     date_start: '2020'
     date_end: '2021'
-    description: "Topic: ”Development and performance evaluation of algorithms and protocols for IoUT systems”. \n Project: ”Underwater IoT systems to understand (and fight) climate change”. \n Advisor: Professor Chiara Petrioli"
+    description: "Topic: Development and performance evaluation of algorithms and protocols for IoUT systems. \n Project: Underwater IoT systems to understand (and fight) climate change. \n Advisor: Professor Chiara Petrioli"
 
 
 
