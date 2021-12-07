@@ -1,7 +1,7 @@
 ---
 title: Giulio Attenni
 role: MS.c. student in Computer Science
-avatar_filename: 20211027_221759.jpg
+avatar_filename: null
 bio: My research interests include Autonomous Networking, Unmanned aerial
   vehicle and Low-power Technologies
 interests:
@@ -30,4 +30,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+My research interests include Autonomous Networking, Unmanned aerial vehicle and Low-power Technologies
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV Attenni Giulio.pdf" "newtab" >}}resumé{{< /staticref >}}.
