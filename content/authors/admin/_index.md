@@ -2,12 +2,12 @@
 title: Giulio Attenni
 role: MS.c. student in Computer Science
 avatar_filename: 20211027_221759.jpg
-bio: My research interests include autonomous networking, drones and low-power
-  technologies.
+bio: My research interests include Autonomous Networking, Unmanned aerial
+  vehicle and Low-power Technologies
 interests:
-  - autonomous networking
-  - drones
-  - low-power technologies
+  - Autonomous Networking
+  - Unmanned aerial vehicle
+  - Low-power Technologies
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,7 +25,7 @@ education:
   courses:
     - course: BSc in Computer Science
       institution: Sapienza University of Rome
-      year: 2014
+      year: 2019
 email: ""
 superuser: true
 highlight_name: true
