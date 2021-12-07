@@ -25,6 +25,7 @@ date_format: Jan 2006
 item:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - certificate_url: https://www.studiareinformatica.uniroma1.it/master-course-computer-science/honours-programme
   date_end: "2018"
   date_start: "2019"
@@ -33,6 +34,8 @@ item:
   organization_url: https://www.di.uniroma1.it/
   title: Honours Programme in Computer Science
 =======
+=======
+>>>>>>> parent of 1ef1eed (9)
 =======
 >>>>>>> parent of 1ef1eed (9)
 - certificate_url: https://www.coursera.org
@@ -59,6 +62,9 @@ item:
   organization_url: https://www.datacamp.com
   title: 'Object-Oriented Programming in R'
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 1ef1eed (9)
+=======
 >>>>>>> parent of 1ef1eed (9)
 =======
 >>>>>>> parent of 1ef1eed (9)
