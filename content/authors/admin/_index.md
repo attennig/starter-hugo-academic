@@ -30,6 +30,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV Attenni Giulio.pdf" "newtab" >}}resumé{{< /staticref >}}.
