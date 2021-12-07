@@ -36,35 +36,7 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    date_start: '2020'
-    date_end: '2021'
-    description: "Topic: Development and performance evaluation of algorithms and protocols for IoUT systems. \n Project: Underwater IoT systems to understand (and fight) climate change. \n Advisor: Professor Chiara Petrioli"
 
-
-
-=======
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
->>>>>>> parent of 1ef1eed (9)
-=======
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
->>>>>>> parent of 1ef1eed (9)
-=======
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
->>>>>>> parent of 1ef1eed (9)
 
 design:
   columns: '2'
