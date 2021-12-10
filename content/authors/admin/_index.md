@@ -20,6 +20,7 @@ bio: My research interests include Autonomous Networking and Unmanned Aerial Veh
 interests:
 - Autonomous Networking
 - Unmanned Aerial Vehicles
+- Constrained Optimization
 
 # Education to show in About widget
 education:
