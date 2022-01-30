@@ -43,10 +43,10 @@ experience:
     date_end: '2021-06-30'
     description: |2-
       Development and performance evaluation of algorithms and protocols for IoUT systems: collaboration in the context of a project concerning the usage of Underwater IoT systems to understand (and fight) climate change.
-      
+
       Advisor: Professor Chiara Petrioli
 
-  - title: Bachelor thesis
+  - title: Bachelor thesis and Honours Programme
     company: Sapienza University of Rome
     company_url: ''
     company_logo: sap-logo
