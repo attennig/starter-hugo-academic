@@ -40,7 +40,7 @@ experience:
     company_logo: sap-logo
     location: 
     date_start: '2020-11-01'
-    date_end: '2021-06-30'
+    date_end: '2021-05-30'
     description: |2-
       Development and performance evaluation of algorithms and protocols for IoUT systems: collaboration in the context of a project concerning the usage of Underwater IoT systems to understand (and fight) climate change.
 
