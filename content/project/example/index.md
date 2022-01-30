@@ -18,10 +18,6 @@ links:
   icon_pack: fab
   name: Repository
   url: https://github.com/attennig/DronesCentralizedTaskAssignment
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
