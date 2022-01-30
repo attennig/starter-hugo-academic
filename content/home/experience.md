@@ -22,19 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Master thesis 
+    company: Sapienza University of Rome
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: 
+    date_start: '2021-09-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+      Task assignment in aerial networks
+      Design and implementation of a system that exploits an autonomous swarm of drones to provide a collaborative parcel delivery service
+      
         
 
 
