@@ -25,13 +25,16 @@ experience:
   - title: Master thesis 
     company: Sapienza University of Rome
     company_url: ''
-    company_logo: org-gc
+    company_logo: sap-logo
     location: 
     date_start: '2021-09-01'
     date_end: ''
     description: |2-
-      Task assignment in aerial networks
-      Design and implementation of a system that exploits an autonomous swarm of drones to provide a collaborative parcel delivery service
+      Task assignment in aerial networks:
+
+      design and implementation of a system that exploits an autonomous swarm of drones to provide a collaborative parcel delivery service.
+
+      Advisor: Professor Gaia Maselli
       
         
 
