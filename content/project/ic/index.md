@@ -1,23 +1,25 @@
 ---
-title: Centralized task assignment for drone-swarm
-summary: Design and implementation of a model for swarms of aerial drones' centralized task assignment problem.
+title: GPU-powered MOLS Generation from Permutation Networks
+summary: Exploit parallel computation to find MOLS (Mutually Orthogonal Latin Squares) among Latin Squares composed by permutations obtained performing routing on a set of MIN configurations. In collaboration with Daniele Baieri.
 tags:
-- MILP
-- Drones
-date: "2020"
+- Matlab
+- C
+- CUDA
+- Intensive Computation
+date: "2021"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Proposed model
+  caption: 
   focal_point: Smart
 
 links:
 - icon: github
   icon_pack: fab
   name: Repository
-  url: https://github.com/attennig/DronesCentralizedTaskAssignment
+  url: https://github.com/daniele-baieri/ICProject
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
