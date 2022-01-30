@@ -4,13 +4,14 @@ summary: Design and implementation of a model for swarms of aerial drones' centr
 tags:
 - MILP
 - Drones
+- Python
 date: "2020"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Proposed model
+  caption: 
   focal_point: Smart
 
 links:

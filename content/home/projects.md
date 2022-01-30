@@ -30,7 +30,7 @@ content:
   - name: Drones
     tag: Drones
   - name: Other
-    tag: Demo
+    tag: MILP, Matlab, C, CUDA, Python
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

@@ -5,7 +5,6 @@ tags:
 - Matlab
 - C
 - CUDA
-- Intensive Computation
 date: "2021"
 
 # Optional external URL for project (replaces project detail page).
