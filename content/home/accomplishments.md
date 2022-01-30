@@ -24,12 +24,12 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
+  date_end: "2019-10-23"
+  date_start: "2018-04-01"
+  description: I had the opportunity to study state of the art and develop algorithms and tools for Smart Cities and Smart Grids in the context of an highly competitive extracurricular program under the supervision of Professor Igor Melatti.
+  organization: Sapienza University of Rome
+  organization_url: https://www.di.uniroma1.it/
+  title: Honours Programme in Computer Science
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 
 design:
