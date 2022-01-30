@@ -23,8 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.di.uniroma1.it/
-  date_end: "2019-10-23"
+- date_end: "2019-10-23"
   date_start: "2018-04-01"
   description: I had the opportunity to study state of the art and develop algorithms and tools for Smart Cities and Smart Grids in the context of an highly competitive extracurricular program under the supervision of Professor Igor Melatti.
   organization: Sapienza University of Rome
