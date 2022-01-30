@@ -10,7 +10,7 @@ date: "2020"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Proposed model
   focal_point: Smart
 
 links:
