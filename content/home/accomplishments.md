@@ -28,12 +28,12 @@ item:
   description: Pre-doctoral Research School
   organization: Cornell University, Maryland University, Max Plank Institute
   organization_url: https://cmmrs2022.mpi-sws.org/
-  title: Emerging Reserach Trends in Computer Science
+  title: Emerging Research Trends in Computer Science
   url: https://cmmrs2022.mpi-sws.org/
 
 - date_end: "2019-10-23"
   date_start: "2018-04-01"
-  description: I had the opportunity to study state of the art and develop algorithms and tools for Smart Cities and Smart Grids in the context of an highly competitive extracurricular program under the supervision of Professor Igor Melatti.
+  description: I had the opportunity to study state-of-the-art and develop algorithms and tools for Smart Cities and Smart Grids in the context of a highly competitive extracurricular program under the supervision of Professor Igor Melatti.
   organization: Sapienza University of Rome
   organization_url: https://www.di.uniroma1.it/
   title: Honours Programme in Computer Science
