@@ -6,15 +6,18 @@ light = true
 
 # Primary
 # buttons and line
-primary = "#fc03f4" 
+primary = "#FF006E" 
 
 
 # Menu
-# not used
-menu_primary = "#fff"
-menu_text = "#fcc603"
-menu_text_active = "#00146e"
-menu_title = "#2b2b2b"
+# title color
+menu_primary = "#3A86FF"
+# sections
+menu_text = "#FFBE0B"
+# active section
+menu_text_active = "##FFBE0B"
+# title color
+menu_title = "##FFBE0B"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
