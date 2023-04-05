@@ -10,8 +10,9 @@ primary = "#fc03f4"
 
 
 # Menu
-menu_primary = "#fcc603"
-menu_text = "#34495e"
+# not used
+menu_primary = "#fff"
+menu_text = "#fcc603"
 menu_text_active = "#00146e"
 menu_title = "#2b2b2b"
 
