@@ -6,7 +6,7 @@
 # Appearance
 
 theme: my_theme
-day_night: false
+day_night: true
 font: ''
 font_size: L
 
@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: giulio.attenni@outlook.com
+email: giulio.attenni@uniroma1.it
 
 # Site header
 

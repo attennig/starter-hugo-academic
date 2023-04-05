@@ -6,7 +6,7 @@ title: Giulio Attenni
 superuser: true
 
 # Role/position/tagline
-role: MSc Student in Computer Science
+role: Ph.D. Student in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,12 +14,13 @@ organizations:
   url: https://www.di.uniroma1.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Autonomous Networking and Unmanned Aerial Vehicles.
+bio: My research interests include Computational Sustainability, Green and Autonomous Networking, Optimization and Approximation Algorithms, Multi-Agent Systems.
 
 # Interests to show in About widget
 interests:
-- Autonomous Networking
-- Unmanned Aerial Vehicles
+- Computational Sustainibility
+- Green Networking
+- Optimization and Approximation Algorithms
 
 # Education to show in About widget
 education:
@@ -38,8 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:giulio.attenni@outlook.com
-- icon: github
+  link: mailto:giulio.attenni@uniroma1.it
   icon_pack: fab
   link: https://github.com/attennig
 - icon: linkedin
@@ -54,7 +54,7 @@ social:
   link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "giulio.attenni@uniroma1.it"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
