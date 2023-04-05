@@ -15,7 +15,8 @@ menu_primary = "#00173D"
 # sections
 menu_text = "#ff006e"
 # active section
-menu_text_active = "#ffbe0b"
+menu_text_active = "rgb(255, 255, 255)"
+#"#ffbe0b"
 # title color
 menu_title = "#ff006e"
 

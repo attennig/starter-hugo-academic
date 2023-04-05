@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- date_end: "2022-08-06"
+  date_start: "2022-08-01"
+  description: Pre-doctoral Research School
+  organization: Cornell University, Maryland University, Max Plank Institute
+  organization_url: https://cmmrs2022.mpi-sws.org/
+  title: Emerging Reserach Trends in Computer Science
+  url: https://cmmrs2022.mpi-sws.org/
+
 - date_end: "2019-10-23"
   date_start: "2018-04-01"
   description: I had the opportunity to study state of the art and develop algorithms and tools for Smart Cities and Smart Grids in the context of an highly competitive extracurricular program under the supervision of Professor Igor Melatti.
