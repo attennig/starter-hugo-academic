@@ -11,13 +11,13 @@ primary = "#FF006E"
 
 # Menu
 # title color
-menu_primary = "#3A86FF"
+menu_primary = "#3a86ff"
 # sections
-menu_text = "#FFBE0B"
+menu_text = "#cc9600"
 # active section
-menu_text_active = "##FFBE0B"
+menu_text_active = "#ffbe0b"
 # title color
-menu_title = "##FFBE0B"
+menu_title = "#ffbe0b
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
